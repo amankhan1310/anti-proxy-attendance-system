@@ -2,7 +2,6 @@
 
 Open-source, Raspberry Pi–based biometric attendance that eliminates proxy attendance using R307 fingerprint verification, faculty-controlled sessions, and exportable records—recognized among standout innovations showcased at Smart India Hackathon 2024 and aligned with SIH’s mission to scale student-built solutions nationwide. Built on Raspberry Pi OS (formerly Raspbian), the stack follows documented UART integration practices for Python and Adafruit’s fingerprint library, ensuring reproducibility on common classroom hardware.[1][2][3][4][5]
 
-## Story — by Adil Deokar
 
 APAS started as a simple question: how can attendance be accurate, auditable, and fast without burdening teachers? As a CSE student and AI developer, Adil Deokar prototyped a portable, faculty-authenticated flow, iterating on real classroom constraints—speed, accuracy, and zero tolerance for proxy. The design pairs low-cost Raspberry Pi hardware with proven UART fingerprint workflows, refined through multiple testing cycles with R307-class sensors and the Adafruit ecosystem, culminating in a robust, classroom-ready tool that resonated with SIH evaluators focused on deployable impact across institutions.[2][4][6][1]
 
