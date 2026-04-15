@@ -78,7 +78,7 @@ APAS demonstrated how low-cost hardware and open libraries can yield deployable 
 - pip install pyserial adafruit-circuitpython-fingerprint pillow openpyxl pandas reportlab.[7][4]
 - python3 apas.py and follow on-screen prompts for enroll, attendance, and export.[4]
 
-Built with care by Adil Deokar—open, auditable, and ready to scale accurate attendance everywhere classrooms meet code.[2][1]
+
 
 [1](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2085000)
 [2](https://news.iitgn.ac.in/iitgn-celebrates-the-winners-of-smart-india-hackathon-sih-2024/)
