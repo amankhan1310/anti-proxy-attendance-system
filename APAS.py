@@ -1,5 +1,4 @@
-# Credit - Adil Deokar
-# adildeokar.com
+
 
 import time
 import serial
